@@ -6,11 +6,20 @@
   "scripts": {
     "test": "jest",
     "watch": "jest --watchAll",
-    "coverage": "jest --coverage"
+    "coverage": "jest --coverage",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jest": "^26.0.1"
+    "jest": "^26.0.1",
+    "magic-string": "^0.27.0",
+    "vitepress": "1.0.0-rc.45",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "husky": "^7.0.2"
   }
 }

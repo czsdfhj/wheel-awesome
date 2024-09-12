@@ -50,13 +50,62 @@
 [wanggaoxian](https://github.com/wanggaoxiantongxue)、
 [gy](https://github.com/Glyxc)、
 [Fomoll](https://github.com/fomoll)、
+[jiuyue](https://github.com/SeptemberMaples)、
+[BambooSword](https://github.com/BambooSword)、
+[barrywu297](https://github.com/barrywu297)、
+[kennnys](https://github.com/HuiWang111)、
+[guojiabing](https://github.com/guojiabing)、
+[wujq](https://github.com/asd2766)、
+[ArcticRug25](https://github.com/ArcticRug25)、
+[hzttw](https://github.com/hzttw)、
+[banixing](https://github.com/banixing)、
+[liuzhw221](https://github.com/liuzhw221)、
+[aidm](https://github.com/aidm)、
+[yjh1342](https://github.com/yjh1342)、
+[尋找安多芬](https://github.com/season19840122)、
+[Lisen28](https://github.com/Lisen28)、
+[Robby](https://github.com/smalltee)、
+[ly 长江七号](https://github.com/ly42273739)、
+[zhaosasa](https://github.com/zhaosasa)、
+[NineDays](https://github.com/sayNo123)、
+[xiaotting](https://github.com/xiaotting)、
+[muxing123](https://github.com/muxing123)、
+[inlineHz](https://github.com/inlineHz)、
+[lzx](https://github.com/lzx)、
+[fyzhu](https://github.com/fyzhu)、
+[allen](https://github.com/liangle)、
+[jiangjj](https://github.com/rhythm022)
+[qzyqzy](https://github.com/qzyqzy)、
+[Alwayslinzx](https://github.com/Alwayslinzx)、
+[杨磊](https://github.com/yl-code)、
+[xushuxin](https://github.com/xushuxin)、
+[BIGBEN888](https://github.com/BIGBEN888)、
+[xxmyyds](https://github.com/xxmyyds)、
+[Zp](https://github.com/CNZp)、
+[amumua](https://github.com/linyuhong97)、
+[jimi](https://github.com/jimixy)、
+[joe](https://github.com/joeyoyo)、
+[Acongm](https://github.com/Acongm)、
+[一饮一啄](https://github.com/c412216887)、
+[JuneJH](https://github.com/JuneJH)、
+[Chtistina](https://github.com/781288772)、
+[krishnan](https://github.com/lively-krishnan)
+[wangminhua-fe](https://github.com/wangminhua-fe)、
+[新](https://github.com/new-wang)、
+[liangdaozheng](https://github.com/liangdaozheng)、
+[Limeijuan](https://github.com/Limeijuan)、
+[passerby0](https://github.com/passerby0)、
+[精灵淡](https://github.com/jinglingdan)、
+[lingfeng](https://github.com/lingfengjgf)、
+[朽木白](https://github.com/xiumubai)、
+[麦克JIO丹](https://github.com/MIKE-27233)、
 
 ## 运行步骤
 
 - 如何下载代码？
 - 如何运行代码？
 - 如何使用 TDD(测试驱动方式)开发一个 Helloworld？
-- 如何给天天造轮子提交代码贡献？
+- 如何给天天造轮子提交代码贡献？`
 
 最近然叔的天天造轮子栏目得到了大家的欢迎，但是吃瓜的多，真正加进来的少呀，
 
